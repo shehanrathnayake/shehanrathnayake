@@ -52,7 +52,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=shehanrathnayake&show_icons=true&locale=en&layout=compact&theme=transparent&height=200&width=400)
 
-![Shehan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shehanrathnayake&show_icons=true&theme=transparent) ![](  )
+![Shehan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shehanrathnayake&show_icons=true&theme=transparent)
+
 ![](https://github-readme-streak-stats.herokuapp.com?user=shehanrathnayake&theme=transparent)
 
 <br>
