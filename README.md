@@ -17,7 +17,7 @@
 
 ## 👨‍🦰 About me :
 
-- 👨‍🎓 I'm`Studying` at IJSE-Institute of Software Engineering...
+- 👨‍🎓 I'm `working` as a Trainee Software Engineer at IJSE-Institute of Software Engineering.
 - 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
 - 💻 I am a competitive programmer mainly at `Leetcode`.
 - 👨 Always `Seeking knowledge with every keystroke`
