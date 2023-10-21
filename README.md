@@ -54,8 +54,6 @@
 
 ![Shehan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shehanrathnayake&show_icons=true&theme=transparent)
 
-![](https://github-readme-streak-stats.herokuapp.com?user=shehanrathnayake&theme=transparent)
-
 <br>
 
 ## 📬 Connect with me :
