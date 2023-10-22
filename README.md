@@ -17,13 +17,14 @@
 
 ## 👨‍🦰 About me :
 
-- 👨‍🎓 I'm `working` as a Trainee Software Engineer at IJSE-Institute of Software Engineering.
-- 🌱 I’m currently learning `Computer Science` and `Software Engineering`.
+- 👨‍🎓 I'm a graduate of University of Moratuwa.
+- 💼 I'm `working` as a Trainee Software Engineer at IJSE-Institute of Software Engineering.
+- 🏆 Have skills in `Java`, `JavaScript`, `MySql`, `PostgreSql`, `JavaFx`, `Jasper Reports`, `Emmet`, `HTML`, `CSS`, `Bootstrap`, `jQuery`.
+- 🌱 I’m currently learning `JavaScript frameworks`.
 - 💻 I am a competitive programmer mainly at `Leetcode`.
 - 👨 Always `Seeking knowledge with every keystroke`
 - 👯 I’m looking to collaborate.
 - 🤔 I’m looking for help with Coding.
-- 🌱 Currently mastering `Java`, `JavaScript`, `MySql`, `PostgreSql`, `JavaFx`,
 - 👨‍💻 All of my projects are available at [https://github.com/shehanrathnayake](https://github.com/shehanrathnayake)
 - 📫 How to reach me **shehanr.rathnayake@gmail.com**
   
