@@ -18,7 +18,7 @@
 ## 👨‍🦰 About me :
 
 - 👨‍🎓 I'm a graduate of University of Moratuwa.
-- 💼 I'm `working` as a Trainee Software Engineer at IJSE-Institute of Software Engineering.
+- 💼 I'm `working` as a Associate Software Engineer at IJSE-Institute of Software Engineering.
 - 🏆 Have skills in `Java`, `JavaScript`, `Relational databases`, `JavaFx`, `Jasper Reports`, `Emmet`, `Bootstrap`, `jQuery`.
 - 🌱 I’m currently learning `JavaScript frameworks`.
 - 💻 I am a competitive programmer mainly at `Leetcode`.
