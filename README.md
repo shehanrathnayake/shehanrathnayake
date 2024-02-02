@@ -19,9 +19,9 @@
 
 - 👨‍🎓 I'm a graduate of the University of Moratuwa.
 - 💼 I'm `working` as an Associate Software Engineer at IJSE-Institute of Software Engineering.
-- 👑 See my portfolio website from here [https://shehanrathnayake.com](https://shehanrathnayake.com)
-- 👨‍💻 All of my projects are available at [https://github.com/shehanrathnayake](https://github.com/shehanrathnayake)
-- 📫 How to reach me **shehanr.rathnayake@gmail.com**
+- 👑 See my portfolio website from here **[https://shehanrathnayake.com](https://shehanrathnayake.com)**
+- 👨‍💻 All of my projects are available at **[https://github.com/shehanrathnayake](https://github.com/shehanrathnayake)**
+- 📫 How to reach me **[shehanr.rathnayake@gmail.com](mailto:shehanr.rathnayake@gmail.com)**
   
   <br>
 
@@ -53,11 +53,12 @@
 ## 📬 Connect with me :
 
 <p align="left">
+  <a href="https://linkedin.com/in/shehanrathnayake" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="shehanrathnayake" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/shehanrathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehan_rathnayake" height="30" width="40" /></a>
+  <a href="https://medium.com/@shehan_rathnayake" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="21392492" height="30" width="40" /></a>
+  <a href="https://instagram.com/shehandj" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="shehandj" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/shehanrathnayake" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="shehanrathnayake" height="30" width="40" /></a>
   <a href="https://twitter.com/shehanrath92" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="shehanrath92" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/shehanrathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehanrathnayake" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/21392492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21392492" height="30" width="40" /></a>
-  <a href="https://instagram.com/shehandj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehandj" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/shehanrathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shehanrathnayake" height="30" width="40" /></a>
 </p>
 
 <br>
@@ -66,4 +67,4 @@
 
 ***If you like what I do, maybe consider buying me a coffee*** 🥺 👇
 
-<p><a href="https://www.buymeacoffee.com/shehanrathnayake"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="37" width="157" alt="shehanrathnayake" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/shehanrathnayake"> <img align="left" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="37" width="157" alt="shehanrathnayake" /></a></p><br><br>
