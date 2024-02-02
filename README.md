@@ -19,6 +19,7 @@
 
 - 👨‍🎓 I'm a graduate of the University of Moratuwa.
 - 💼 I'm `working` as an Associate Software Engineer at IJSE-Institute of Software Engineering.
+- 👑 See my portfolio website from here [https://shehanrathnayake.com](https://shehanrathnayake.com)
 - 👨‍💻 All of my projects are available at [https://github.com/shehanrathnayake](https://github.com/shehanrathnayake)
 - 📫 How to reach me **shehanr.rathnayake@gmail.com**
   
@@ -52,7 +53,7 @@
 ## 📬 Connect with me :
 
 <p align="left">
-  <a href="https://twitter.com/shehanrath92" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shehanrath92" height="30" width="40" /></a>
+  <a href="https://twitter.com/shehanrath92" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="shehanrath92" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/shehanrathnayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shehanrathnayake" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/21392492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21392492" height="30" width="40" /></a>
   <a href="https://instagram.com/shehandj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shehandj" height="30" width="40" /></a>
