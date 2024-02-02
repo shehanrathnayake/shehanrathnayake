@@ -55,9 +55,9 @@
 <p align="left">
   <a href="https://linkedin.com/in/shehanrathnayake" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="shehanrathnayake"/></a>
   <a href="https://medium.com/@shehan_rathnayake" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="21392492"/></a>
-  <a href="https://instagram.com/shehandj" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="shehandj"/></a>
   <a href="https://www.leetcode.com/shehanrathnayake" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="shehanrathnayake"/></a>
   <a href="mailto:shehanr.rathnayake@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="shehan_rathnayake"/></a>
+  <a href="https://instagram.com/shehandj" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="shehandj"/></a>
   <a href="https://twitter.com/shehanrath92" target="blank"><img align="center" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="shehanrath92"/></a>
 </p>
 
