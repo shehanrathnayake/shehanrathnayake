@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=32&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B%2C+I'm+Shehan+Rathnayake;" alt="Typing SVG">
 </p>
 
-<h3 align="center"><b><i>Aspiring Software Engineer from Sri Lanka</i></b></h3>
+<h3 align="center"><b><i>Software Engineer from Sri Lanka</i></b></h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Seeking+knowledge+with+every+keystroke;Fueled+by+curiosity+and+dedication;Coding+my+way+to+excellence&center=true&width=500&height=50"></a>
@@ -18,7 +18,7 @@
 ## 👨‍🦰 About me :
 
 - 👨‍🎓 I'm a graduate of the University of Moratuwa.
-- 💼 I'm `working` as an Associate Software Engineer at IJSE-Institute of Software Engineering.
+- 💼 I'm `working` as a Software Engineer at DevBranch (Pvt) Ltd.
 - 👑 See my portfolio website from here **[https://shehanrathnayake.com](https://shehanrathnayake.com)**
 - 👨‍💻 All of my projects are available at **[https://github.com/shehanrathnayake](https://github.com/shehanrathnayake)**
 - 📫 How to reach me **[shehanr.rathnayake@gmail.com](mailto:shehanr.rathnayake@gmail.com)**
